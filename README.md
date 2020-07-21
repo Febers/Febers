@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+💻 Kotlin、Java、Javascript，Android、Vue、NodeJS
+🌱 Learning Harmonica
+🏀 Basketball
+🎮 LOL ARAM
+
