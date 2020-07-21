@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💻 Kotlin、Java、Javascript，Android、Vue、NodeJS
-🌱 Learning Harmonica
-🏀 Basketball
-🎮 LOL ARAM
+- 💻 Kotlin、Java、Javascript，Android、Vue、NodeJS
+- 🌱 Learning Harmonica
+- 🏀 Basketball
+- 🎮 LOL ARAM
 
